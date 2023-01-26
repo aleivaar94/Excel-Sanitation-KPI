@@ -16,7 +16,6 @@ The number of microbiological swabs in a 45,000 sq. ft facility is big. The swab
 The opportunity to develop an environmental monitoring program that can be used to make data driven decisions not only benefits the customer with a robust food safety program, it also benefits the organization because an EMP is a fundamental element of GFSI certifications. GFSI certifications such as SQF are trusted by retailers around the world. It helps give the organization status and opens doors for future business and growth.
 
 ## Methodology
-<br>
 
 ### EMP Design
 
@@ -25,7 +24,6 @@ Total swabs + air sampling in a month: 261
 ![](https://github.com/aleivaar94/Excel-Sanitation-KPI/blob/master/assets/emp-design.png)
 
 ### Data Collection
-<br>
 
 ### **Part I**
 Due to the high number of swabs a data collection solution was necessary. In this case a Microsoft Form was created. Automatic data collection in MS Form and Excel allows ease of laboratory swab submission considering the high number of swabs. It also allows data analysis and minimizes errors while submitting lab samples to the lab (wrong sample name or missed swab).
